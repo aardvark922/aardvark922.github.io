@@ -4,7 +4,7 @@ date: 2012-06-01
 tags: ["keyword 1","keyword 2","keyword 3"]
 author: "Author Name"
 description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+summary: "This paper shows things using various techniques and about." 
 cover:
     image: "paper1.png"
     alt: "Image caption"
