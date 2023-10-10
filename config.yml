@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://aardvark922.github.io/"
+title: Jieqiong(Cicy) Jin
 paginate: 20
 theme: PaperMod
 
@@ -21,12 +21,12 @@ menu:
           url: /design/
           weight: 3
         - name: Newsletter
-          url: https://pmichaillat.substack.com
+#          url: https://pmichaillat.substack.com
           weight: 4
 
 params:
     description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
+    author: Jieqiong(Cicy) Jin
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -63,7 +63,7 @@ params:
             - name: Design
               url: /design/
             - name: Newsletter
-              url: https://pmichaillat.substack.com
+#              url: https://pmichaillat.substack.com
             - name: Keywords
               url: /tags/
             - name: Archive
@@ -83,7 +83,7 @@ params:
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+#          url: https://github.com/pmichaillat?tab=repositories
 
     assets:
         disableHLJS: true
