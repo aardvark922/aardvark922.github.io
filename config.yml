@@ -50,11 +50,12 @@ params:
     profileMode:
           enabled: true
           title: Jieqiong(Cicy) Jin
-          subtitle: "I am a sixth year Ph.D. student in Economics at Purdue University. 
-          <br> My research focuses on Experimental and Behavioral Economics, Public Economics and Applied Microeconomics."
-          imageUrl: "Jieqiong_Jin_2019.JPG"
-          imageWidth: 200
-          imageHeight: 200
+          subtitle: "Welcome to my personal website! I’m a Ph.D. candidate in economics at Purdue University. 
+          <br> My current research focuses on Experimental and Behavioral Economics, Public Economics and Applied Microeconomics.
+          <b>I am on the 2023-2024 job market.<b>"
+          imageUrl: "Jieqiong_Jin_2019_crop.jpg"
+          imageWidth: 250
+          imageHeight: 250
           imageTitle: Jieqiong Jin
           buttons:
             - name: Research

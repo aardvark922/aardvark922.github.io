@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+hidemeta: true
 description: "Teaching experience both as instructor and TA."
 
 
