@@ -14,7 +14,7 @@ description: ""
 ##### SKILLS
 + Programming Language: Python, R, MATLAB, HTML, JavaScript, and SQL
 + Statistical Software: Stata
-+ Experimental/Survey Tools: Qualtrics; oTree
++ Experimental/Survey Tools: oTree and Qualtrics
 
 ##### GRANTS & AWARDS
 
