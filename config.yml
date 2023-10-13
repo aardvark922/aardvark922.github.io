@@ -14,9 +14,12 @@ menu:
         - name: Research
           url: papers/
           weight: 1
+        - name: CV/Resume
+          url: cv/
+          weight: 2
         - name: Teaching
           url: courses/
-          weight: 2
+          weight: 3
 #        - name: About Me
 #          url: about/
 #          weight: 3
@@ -60,6 +63,8 @@ params:
           buttons:
             - name: Research
               url: papers/
+            - name: CV / Resume
+              url: cv/
             - name: Teaching
               url: courses/
 #            - name: About Me
@@ -72,7 +77,7 @@ params:
 #              url: archive/
     socialIcons:
         - name: CV
-          url: cv_231011.pdf
+          url: Jin_Jieqiong_CV_231013.pdf
         - name: Email
           url: mailto:jin334@purdue.edu
         - name: Location
