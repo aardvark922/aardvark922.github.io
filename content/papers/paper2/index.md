@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Spillover in Cooperation Games" 
+title: "Behavioral Spillover in Cooperation Games"
 #date: 2015-12-01
 tags: [ "behavioral spillover","indefinitely repeated games,","public goods game" ]
 author: [ "Jieqiong Jin" ]
@@ -18,11 +18,13 @@ summary: "Job Market Paper"
 ---
 
 [//]: # ()
+
 ##### Download
 
 Draft upon request.
 
 [//]: # ()
+
 [//]: # (+ [Paper]&#40;paper2.pdf&#41;)
 
 [//]: # (+ [Online appendix]&#40;appendix2.pdf&#41;)
@@ -38,30 +40,34 @@ In daily life, people interact with members from different groups in similar str
 interaction involves a whole group while sometimes only with one individual. Previous literature has established that
 spillover effect exists when multiple games are played simultaneously, whether facing the same partner(s) or not. This
 study experimentally investigates behavioral spillovers between two social dilemma type games. In our experiments,
-subjects play Prisoner’s Dilemma game(PD) and Public Goods game(PGG) simultaneously where the opponents of the two games
-do not overlap. We vary the basin of attraction to defect in PD game and test how this would affect subject's
+subjects play Prisoner’s Dilemma game (PD) and Public Goods game (PGG) simultaneously where the opponents of the two
+games do not overlap. We vary the level of strategic uncertainty in PD game and test how this affects subject's
 contributing behavior in PGG, which stays the same across treatments. We find that behavioral spillover exists in our
 setting and comes in an asymmetric form. When people are in an environment where cooperation is easy to sustain in the
-PD game, the PGG contribution would not increase much, comparing to the baseline treatment when the PGG is played alone.
-However, when they are in the setting where cooperation is hard to sustain in the PD game, their PGG contribution would
-decrease significantly.
+PD game, the PGG contribution does not increase much, compared to the baseline treatment when the PGG is played alone.
+However, when they are in the setting where cooperation is hard to sustain in the PD game, their PGG contribution
+decreases significantly.
 
 [//]: # (---)
 
 [//]: # (##### Figure X: Figure caption)
 
 [//]: # ()
+
 [//]: # (![]&#40;paper2.png&#41;)
 
 [//]: # ()
+
 [//]: # (---)
 
 [//]: # (##### Citation)
 
 [//]: # ()
+
 [//]: # (Author 1 and Author 2. Year. "Title." *Journal* Volume &#40;Issue&#41;: First page–Last page. https://doi.org/paper_doi.)
 
 [//]: # ()
+
 [//]: # (```BibTeX)
 
 [//]: # (@article{AAYY,)
@@ -87,8 +93,10 @@ decrease significantly.
 [//]: # (---)
 
 [//]: # ()
+
 [//]: # (##### Related material)
 
 [//]: # ()
+
 [//]: # (+ [Presentation slides]&#40;presentation2.pdf&#41;)
 

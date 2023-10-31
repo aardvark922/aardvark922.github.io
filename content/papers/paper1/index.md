@@ -34,8 +34,7 @@ summary: "Working paper"
 
 ##### Abstract
 
-Cooperation is difficult to achieve among agents who are confronted with a social dilemma but cannot identify each other
-or effectively build reputations. In large communities, it is neither feasible for an agent to retrieve the complete
+Cooperation among agents who cannot identify each other to build reputation is difficult to achieve. In large communities, it is neither feasible for an agent to retrieve the complete
 history of his/her current partner nor possible to enforce cooperation by punishing the partner immediately, especially
 when the frequency of interaction is rather rare. This study examines cooperation and the impact of bribery in an
 extended version of indefinitely repeated Prisoner’s Dilemma, the Law Merchant system stage game, by experimentally
