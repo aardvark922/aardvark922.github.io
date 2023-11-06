@@ -38,15 +38,15 @@ Draft upon request.
 
 In daily life, people interact with members from different groups in similar strategic settings. Sometimes the
 interaction involves a whole group while sometimes only with one individual. Previous literature has established that
-spillover effect exists when multiple games are played simultaneously, whether facing the same partner(s) or not. This
+spillover effects exist when multiple games are played simultaneously, whether facing the same partner(s) or not. This
 study experimentally investigates behavioral spillovers between two social dilemma type games. In our experiments,
-subjects play Prisoner’s Dilemma game (PD) and Public Goods game (PGG) simultaneously where the opponents of the two
+subjects play Prisoner’s Dilemma game (PD) and Public Goods game (PGG) simultaneously, where the opponents of the two
 games do not overlap. We vary the level of strategic uncertainty in PD game and test how this affects subject's
-contributing behavior in PGG, which stays the same across treatments. We find that behavioral spillover exists in our
+contributing behavior in PGG, which is held constant across treatments. We find that behavioral spillover exists in our
 setting and comes in an asymmetric form. When people are in an environment where cooperation is easy to sustain in the
-PD game, the PGG contribution does not increase much, compared to the baseline treatment when the PGG is played alone.
-However, when they are in the setting where cooperation is hard to sustain in the PD game, their PGG contribution
-decreases significantly.
+PD game, the PGG contributions do not increase much, compared to the baseline treatment when the PGG is played alone.
+However, when in the setting where cooperation is difficult to sustain in the PD game, PGG contributions decrease
+significantly.
 
 [//]: # (---)
 
