@@ -3,8 +3,8 @@ title: "CURRICULUM VITAE"
 hidemeta: true
 description: ""
 ---
-+ [Download CV](/Jin_Jieqiong_CV_231013.pdf)
-+ [Download Resume](/Jin_Jieqiong_Resume_231013.pdf)
++ [Download CV](/Jin_Jieqiong_CV_231101.pdf)
++ [Download Resume](/Jin_Jieqiong_Resume_231105.pdf)
 ##### EDUCATION
 + Ph.D., Economics, Purdue University, 2024 (Expected)
 +  M.S., Economics, Purdue University, 2019
