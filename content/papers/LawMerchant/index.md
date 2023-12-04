@@ -7,7 +7,7 @@ author: "Jieqiong Jin"
 description: "Working paper"
 summary: "Working paper"
 #cover:
-#    image: "paper1.png"
+#    image: "LawMerchant.png"
 #    alt: "Image caption"
 #    relative: false
 #editPost:
@@ -95,9 +95,9 @@ trend; 2) The possibility of the third-party requesting bribery will decrease co
 
 ##### Related material
 
-+ [Presentation slides(ESA 2022 Boston)](presentation1.pdf)
++ [Presentation slides(ESA 2022 Boston)](presentation_LawMerchant.pdf)
 
-[//]: # (+ [Dissertation title]&#40;https://escholarship.org/uc/item/7jr3m96r&#41; – PhD dissertation on which this paper is based.)
++ [Code for Experiment Interface](https://github.com/aardvark922/LawMerchant) – Github repository
 
 [//]: # (+ [Column title]&#40;https://cep.lse.ac.uk/pubs/download/cp365.pdf&#41; – Nontechnical column describing the paper.)
 
