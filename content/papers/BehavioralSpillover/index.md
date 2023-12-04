@@ -25,11 +25,11 @@ Draft upon request.
 
 [//]: # ()
 
-[//]: # (+ [Paper]&#40;paper2.pdf&#41;)
++ [Paper](JobMarketPaper_JJin_latest.pdf)
 
 [//]: # (+ [Online appendix]&#40;appendix2.pdf&#41;)
 
-[//]: # (+ [Code and data]&#40;https://github.com/pmichaillat/unemployment-gap&#41;)
++ [Code for Experiment Interface](https://github.com/aardvark922/spillover)
 
 [//]: # ()
 ---
