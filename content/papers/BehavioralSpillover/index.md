@@ -1,5 +1,5 @@
 ---
-title: "Behavioral Spillover in Cooperation Games"
+title: "Behavioral Spillover in Cooperation Games (Job Market Paper)"
 #date: 2015-12-01
 tags: [ "behavioral spillover","indefinitely repeated games,","public goods game" ]
 author: [ "Jieqiong Jin" ]
@@ -21,17 +21,14 @@ summary: "Job Market Paper"
 
 ##### Download
 
-Draft upon request.
-
 [//]: # ()
 
-+ [Paper](JobMarketPaper_JJin_latest.pdf)
++ [Draft](JobMarketPaper_JJin_latest.pdf)
 
 [//]: # (+ [Online appendix]&#40;appendix2.pdf&#41;)
 
-+ [Code for Experiment Interface](https://github.com/aardvark922/spillover)
 
-[//]: # ()
+
 ---
 
 ##### Abstract
@@ -94,7 +91,9 @@ significantly.
 
 [//]: # ()
 
-[//]: # (##### Related material)
+##### Related material
++ [Code for Experiment Interface](https://github.com/aardvark922/spillover)
+
 
 [//]: # ()
 

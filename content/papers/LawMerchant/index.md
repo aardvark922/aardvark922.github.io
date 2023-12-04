@@ -28,7 +28,6 @@ summary: "Working paper"
 
 [//]: # (+ [Online appendix]&#40;appendix1.pdf&#41;)
 
-+ [Code for Experiment Interface](https://github.com/aardvark922/LawMerchant)
 
 ---
 
@@ -96,6 +95,8 @@ trend; 2) The possibility of the third-party requesting bribery will decrease co
 ##### Related material
 
 + [Presentation slides(ESA 2022 Boston)](presentation_LawMerchant.pdf)
++ [Code for Experiment Interface](https://github.com/aardvark922/LawMerchant)
+
 
 [//]: # (+ [Code for Experiment Interface]&#40;https://github.com/aardvark922/LawMerchant&#41; – Github repository)
 
