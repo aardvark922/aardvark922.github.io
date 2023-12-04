@@ -28,7 +28,7 @@ summary: "Working paper"
 
 [//]: # (+ [Online appendix]&#40;appendix1.pdf&#41;)
 
-[//]: # (+ [Code and data]&#40;https://github.com/pmichaillat/job-rationing&#41;)
++ [Code for Experiment Interface](https://github.com/aardvark922/LawMerchant)
 
 ---
 
@@ -97,7 +97,7 @@ trend; 2) The possibility of the third-party requesting bribery will decrease co
 
 + [Presentation slides(ESA 2022 Boston)](presentation_LawMerchant.pdf)
 
-+ [Code for Experiment Interface](https://github.com/aardvark922/LawMerchant) – Github repository
+[//]: # (+ [Code for Experiment Interface]&#40;https://github.com/aardvark922/LawMerchant&#41; – Github repository)
 
 [//]: # (+ [Column title]&#40;https://cep.lse.ac.uk/pubs/download/cp365.pdf&#41; – Nontechnical column describing the paper.)
 

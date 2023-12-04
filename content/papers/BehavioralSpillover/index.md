@@ -6,7 +6,7 @@ author: [ "Jieqiong Jin" ]
 description: "This paper shows other things. Published in Journal Name, 2015."
 summary: "Job Market Paper"
 #cover:
-#  image: "paper2.png"
+#  image: "BehavioralSpillover.png"
 #  alt: "Image caption"
 #  relative: false
 #editPost:
