@@ -54,7 +54,7 @@ params:
           enabled: true
           title: Jieqiong(Cicy) Jin
           subtitle: "Welcome to my personal website! I'm Jieqiong Jin (金洁琼), a Ph.D. candidate in economics at Purdue University. 
-          <br> My current research focuses on Experimental and Behavioral Economics, Public Economics and Applied Microeconomics.
+          <br>  <br> My current research focuses on Experimental and Behavioral Economics, Public Economics and Applied Microeconomics.
           <b>I am on the 2023-2024 job market.<b>"
           imageUrl: "Jieqiong_Jin_2019_crop.jpg"
           imageWidth: 250

@@ -33,9 +33,7 @@ summary: "Job Market Paper"
 
 ##### Abstract
 
-In daily life, people interact with members from different groups in similar strategic settings. Sometimes the
-interaction involves a whole group while sometimes only with one individual. Previous literature has established that
-spillover effects exist when multiple games are played simultaneously, whether facing the same partner(s) or not. This
+Previous literature has established that spillover effects exist when multiple games are played simultaneously, whether facing the same partner(s) or not. This
 study experimentally investigates behavioral spillovers between two social dilemma type games. In our experiments,
 subjects play Prisoner’s Dilemma game (PD) and Public Goods game (PGG) simultaneously, where the opponents of the two
 games do not overlap. We vary the level of strategic uncertainty in PD game and test how this affects subject's
