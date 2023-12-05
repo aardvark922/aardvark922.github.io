@@ -37,7 +37,7 @@ Previous literature has established that spillover effects exist when multiple g
 study experimentally investigates behavioral spillovers between two social dilemma type games. In our experiments,
 subjects play Prisoner’s Dilemma game (PD) and Public Goods game (PGG) simultaneously, where the opponents of the two
 games do not overlap. We vary the level of strategic uncertainty in PD game and test how this affects subject's
-contributing behavior in q, which is held constant across treatments. We find that behavioral spillover exists in our
+contributing behavior in PGG, which is held constant across treatments. We find that behavioral spillover exists in our
 setting and comes in an asymmetric form. When people are in an environment where cooperation is easy to sustain in the
 PD game, the PGG contributions do not increase much, compared to the baseline treatment when the PGG is played alone.
 However, when in the setting where cooperation is difficult to sustain in the PD game, PGG contributions decrease
